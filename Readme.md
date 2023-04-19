@@ -6,4 +6,4 @@
 * https://docs.liquibase.com/tools-integrations/springboot/springboot.html
 * https://www.baeldung.com/liquibase-refactor-schema-of-java-app
 * https://docs.liquibase.com/change-types/home.html
-  * https://docs.liquibase.com/change-types/rename-table.html 
+  * https://docs.liquibase.com/change-types/rename-table.html

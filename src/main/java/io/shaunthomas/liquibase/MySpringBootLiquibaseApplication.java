@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MySpringBootLiquibaseApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MySpringBootLiquibaseApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(MySpringBootLiquibaseApplication.class, args);
+  }
 
 }
