@@ -1,4 +1,4 @@
-name: Java CI
+name: Maven Build - Java 17
 run-name: Java CI on ${{ github.ref}} by ${{ github.actor }}
 on: [push]
 jobs:
