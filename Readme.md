@@ -1,6 +1,6 @@
 # my-spring-boot-liquibase
 
-![Build](https://github.com/shaunthomas999/my-spring-boot-liquibase/actions/workflows/github-actions-java-maven.yml/badge.svg)
+![Maven Build - Java 17](https://github.com/shaunthomas999/my-spring-boot-liquibase/actions/workflows/github-actions-java-maven.yml/badge.svg)
 
 ## References
 
